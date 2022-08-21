@@ -18,3 +18,4 @@ Instructors for aCloudGuru (Most of it)
 Instructors for udemy (Small portion)
   - Stephane Maarek
 
+Start date July 11th, 2022
