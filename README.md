@@ -11,11 +11,11 @@ And so much more...
 
 Most of these are from the course on aCloudGuru and some of from Udemy
 
-Instructors for aCloudGuru (Most of it)
+Instructors from aCloudGuru (Most of it)
   - Ryan Kroonenburg
   - Alex Galvin
 
-Instructors for udemy (Small portion)
+Instructors from udemy (Small portion)
   - Stephane Maarek
 
 Start date July 11th, 2022
