@@ -1,6 +1,6 @@
 # AWS-Solutions-Architect
 
-This for me to showcase my skills in AWS involving the many services AWS has to offer.
+This is to help anyone interested in studying the AWS CSA
 In the provided documents, there are many PDF files involving....
 
 Databases
@@ -19,5 +19,7 @@ Instructors from aCloudGuru (Most of it)
 
 Instructors from udemy (Small portion)
   - Stephane Maarek
+
+And previous notes I have taken when I went for my cloud practitioner
 
 Start date July 11th, 2022
