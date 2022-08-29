@@ -8,6 +8,8 @@ Decoupling Workflows
 Migration
 
 And so much more...
+The reasoning behind these documents is to showcase my studies, my note taking skills, and one day help others with the "How-To's" documents on how to do certain things within AWS
+
 
 Most of these are from the course on aCloudGuru and some of from Udemy
 
