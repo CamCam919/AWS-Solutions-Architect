@@ -20,6 +20,10 @@ Instructors from aCloudGuru (Most of it)
 Instructors from udemy (Small portion)
   - Stephane Maarek
 
+Different small courses on AWS Skill Builder
+https://explore.skillbuilder.aws/learn/home
+  - This is just searching up services to get more of a broad understanding
+
 And previous notes I have taken when I went for my cloud practitioner.
 
 Start date July 11th, 2022
