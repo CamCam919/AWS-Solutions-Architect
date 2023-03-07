@@ -16,3 +16,12 @@ Study Material/IAM Policy - WingoBucket.json
         }
     ]
 }
+The IAM polciy gets attached to identities inside of AWS. Which are set of security statements to AWS, which grants or denies access.
+
+Above are multiple statements (2)
+The first statement allows full access to all of the S3 service. All S3 actions on all resources.
+The second statement denies to a small portion of S3. Which is the batmangifs bucket and all the things in that bucket.
+
+As you can see in the second statement it has the "Effect": "Deny", > The policy denies access to a resource and nothing can overrule that deny.
+In the explicit allow, you can access all S3 actions on any resource. Unless there is a explicit deny. 
+Just remember Explict denys always take over anything
