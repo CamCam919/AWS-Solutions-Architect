@@ -13,12 +13,15 @@ The reasoning behind these documents is to showcase my studies, my note taking s
 
 Most of these are from the course on aCloudGuru and some of from Udemy.
 
-Instructors from aCloudGuru (Most of it)
+Instructors from aCloudGuru 
   - Ryan Kroonenburg
   - Alex Galvin
 
-Instructors from udemy (Small portion)
+Instructors from Udemy 
   - Stephane Maarek
+  
+Instructors from Cantrill
+   - Adrian Cantrill
 
 Different small courses on AWS Skill Builder
 https://explore.skillbuilder.aws/learn/home
